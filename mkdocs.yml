@@ -1,0 +1,46 @@
+site_name: Jam ユーザーガイド
+site_description: Jam のユーザー用ドキュメントサイトです
+site_author: Shun Nishimura
+
+site_url: https://nshun.github.io/aws-jam-user-docs/
+repo_url: https://github.com/nshun/aws-jam-user-docs
+
+copyright: Copyright &copy; 2025 Shun Nishimura
+
+# Theme
+theme:
+  name: material
+  language: ja
+  features:
+    - navigation.expand
+    # - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.follow
+
+# Additional CSS
+extra_css:
+  - stylesheets/extra.css
+
+# Markdown extensions
+markdown_extensions:
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.snippets:
+      base_path: docs/snippets
+
+plugins:
+  - privacy
+  - search
+  - awesome-nav
+
+extra:
+  generator: false
