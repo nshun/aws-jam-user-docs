@@ -1,0 +1,8 @@
+sort:
+  sections: mixed
+
+nav:
+  - index.md
+  - creating-events.md
+  - managing-events.md
+  - participants.md

@@ -1,5 +1,7 @@
 # Facilitators Guide
 
+--8<-- "source-notice-en.md"
+
 This section covers how to use the facilitator features for a Jam event. An event owner should have given the facilitator role to the same account to which you are logging in to Jam. Ask the event owner if they have added your email as a facilitator. > **📝 Note:** An event owner has the facilitator role by default.
 
 ### How to use the Participants page

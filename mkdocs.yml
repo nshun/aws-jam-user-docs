@@ -1,5 +1,5 @@
-site_name: Jam ユーザーガイド
-site_description: Jam のユーザー用ドキュメントサイトです
+site_name: Jam User Guide
+site_description: Jam user documentation site
 site_author: Shun Nishimura
 
 site_url: https://nshun.github.io/aws-jam-user-docs/
@@ -10,7 +10,7 @@ copyright: Copyright &copy; 2025 Shun Nishimura
 # Theme
 theme:
   name: material
-  language: ja
+  language: en
   features:
     - navigation.expand
     # - navigation.sections
@@ -41,6 +41,21 @@ plugins:
   - privacy
   - search
   - awesome-nav
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+          site_name: 'Jam User Guide'
+        - locale: ja
+          name: 日本語
+          build: true
+          site_name: 'Jamユーザーガイド'
 
 extra:
   generator: false

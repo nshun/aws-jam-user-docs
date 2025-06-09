@@ -1,5 +1,7 @@
 # Participant Guide
 
+--8<-- "source-notice-en.md"
+
 This section covers how to join, discover, and complete challenges in a Jam event as a participant.
 
 ### How to Join an Event

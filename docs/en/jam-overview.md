@@ -1,5 +1,7 @@
 # Jam Overview
 
+--8<-- "source-notice-en.md"
+
 AWS Jam is an immersive experiential learning platform that helps learners develop the skills to build on the AWS Cloud through simulated real-world use-cases. Learners form teams to solve a series of challenges and engage in friendly competition to get the top position on the leaderboard. AWS Jam delivers an engaging experience through several gaming elements such as collaboration, competition, real-time scoring, and relevant in-scenario clues. Learners can get their hands dirty with 200+ challenges on topics such as security, DevOps, AI/ML, data analytics, migration tooling, serverless, application modernization, IoT, and more.
 
 AWS Jam not only has the ability to identify whether the goals were achieved, but can also programmatically validate that the solution implements best practices that are known to scale effectively. This ensures that participants are learning established best practices which can then be taken back and implemented within their organizations.

@@ -1,0 +1,13 @@
+sort:
+  sections: mixed
+
+nav:
+  - index.md
+  - jam-overview.md
+  - Event Owners Guide:
+    - event-owners-guide/index.md
+    - event-owners-guide/creating-events.md
+    - event-owners-guide/managing-events.md
+    - event-owners-guide/participants.md
+  - facilitators-guide.md
+  - participant-guide.md
