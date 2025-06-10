@@ -31,11 +31,11 @@ AWS Jamイベント主催者として、AWS Jamコンソールにアクセスす
 1. Webブラウザを開き、アドレスバーにURL`https://jam.aws.com`を入力します。
 2. Jamホームページで、ページの右上の**Sign In**を選択します。
 
-![](images/_page_3_Picture_7.jpeg)
+![](images/jam-homepage-sign-in-button.jpeg)
 
 3. アカウントのサインイン方法を選択し、**Sign in**を選択します。
 
-![](images/_page_4_Figure_1.jpeg)
+![](images/signin-method-selection.jpeg)
 
 4. **ユーザー名**と**パスワード**を入力します。ログイン後、Jamホームページを確認できます。Skill Builder Team SubscriptionまたはSkill Builder Individual Subscriptionを使用してログインしていない場合は、次のセクションをスキップしてください。
 
@@ -46,11 +46,11 @@ SBTSをお持ちの場合は、Skill Builder管理ダッシュボードからJam
 1. Webブラウザを開き、アドレスバーにURL`https://skillbuilder.aws`を入力します。
 2. SBTS対応アカウントのサインイン方法を選択し、**Sign in**を選択します。
 
-![](images/_page_5_Figure_1.jpeg)
+![](images/skillbuilder-signin-page.jpeg)
 
 3. 管理者ダッシュボードで、*AWS Jam*パネルを見つけます。次に**GO TO JAM CONSOLE**を選択します。
 
-![](images/_page_5_Figure_3.jpeg)
+![](images/skillbuilder-dashboard-go-to-jam-console.jpeg)
 
 4. ページにJamホームページが表示されます。
 
@@ -61,13 +61,13 @@ Jamホームページは、AWS Jam AWSに参加し、イベントを作成・管
 1. Jamホームページの上部にナビゲーションメニューがあります。
 2. ナビゲーションの下では、イベントに参加できます。
 
-![](images/_page_6_Picture_5.jpeg)
+![](images/jam-homepage-join-events.jpeg)
 
 3. ホームページの下半分には、AWS Jamについてのセクションがあります。
 4. Jamに関する顧客のコメントもあります。
 5. 最下部には、Play、Host、Support、および法的リンクへのナビゲーションがあります。
 
-![](images/_page_6_Figure_9.jpeg)
+![](images/jam-homepage-bottom-section.jpeg)
 
 ## ナビゲーション
 
@@ -75,17 +75,17 @@ Jamホームページは、AWS Jam AWSに参加し、イベントを作成・管
 
 > **📝 注記:** HostとBuildメニューは、イベントの参加者だけの人には表示されません。
 
-![](images/_page_7_Picture_4.jpeg)
+![](images/jam-navigation-menu.jpeg)
 
 2. ナビゲーションの右上は、ユーザーエクスペリエンスをカスタマイズできる場所です。**ライトモード**または**ダークモード**を選択し、**プロフィール**にアクセスし、**サインアウト**し、**言語設定**で優先言語を設定できます。
 
-![](images/_page_7_Picture_6.jpeg)
+![](images/jam-user-settings.jpeg)
 
 ## Playメニュー
 
 参加者は、Playメニューで必要なことのほとんどを見つけることができます。PlayメニューはAWS Jamイベントに参加し、登録したJamイベントにアクセスし、すべての人が自由に参加できる現在および今後のイベントを閲覧できる場所です。
 
-![](images/_page_8_Picture_1.jpeg)
+![](images/jam-play-menu.jpeg)
 
 Playメニューには以下の項目が含まれます：
 
@@ -97,7 +97,7 @@ Playメニューには以下の項目が含まれます：
 
 イベント主催者は、Hostメニューで必要なことのほとんどを見つけることができます。Hostメニューは、イベント主催者がキュレートされたエクスペリエンスを閲覧し、Jamイベントをスケジュールし、カスタムJamイベントを作成し、AWS Jamイベントを管理し、またはキャンペーンを作成できる場所です。Hostメニューは参加者には表示されません。
 
-![](images/_page_8_Picture_8.jpeg)
+![](images/jam-host-menu.jpeg)
 
 Hostメニューには以下の項目が含まれます：
 
@@ -108,7 +108,7 @@ Hostメニューには以下の項目が含まれます：
 
 チャレンジビルダーは、Buildメニューで必要なことのほとんどを見つけることができます。BuildメニューはチャレンジビルダーがJamチャレンジを構築し、Jamチャレンジセットを構築し、ライブラリ内のすべてのチャレンジを表示できる場所です。Buildメニューは、チャレンジビルダー権限を持たないユーザーには表示されません。チャレンジを構築したい場合は、チャレンジビルダー権限を要求する必要があります。
 
-![](images/_page_9_Picture_3.jpeg)
+![](images/jam-build-menu.jpeg)
 
 Buildメニューには以下の項目が含まれます：
 
@@ -120,4 +120,4 @@ Buildメニューには以下の項目が含まれます：
 
 FAQでは、AWS Jamに関する一般的な質問と回答のリストが表示されます。
 
-![](images/_page_10_Picture_3.jpeg)
+![](images/jam-faq-page.jpeg)

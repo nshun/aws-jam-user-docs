@@ -13,24 +13,24 @@
 1. イベントリンクを使用してイベントにアクセスします。
 2. イベントページで、左側にチャレンジナビゲーションメニューが表示されます。**Facilitator**を選択し、次に**Participants**を選択します。
 
-![](images/_page_52_Picture_7.jpeg)
+![](images/jam-team-join-p52.jpeg)
 
 3. *Participants*ページが表示されます。参加者ページでは、_チーム_、_参加者_、*ファシリテーター*の数の概要を確認できます。
 
-![](images/_page_53_Figure_2.jpeg)
+![](images/jam-team-join-p53.jpeg)
 
 4. *Teams*セクションで、*チーム名*の左側にある**expand**ボタンを選択して、チームの個々のユーザーを確認できます。
 
-![](images/_page_53_Figure_4.jpeg)
+![](images/jam-teams-display.jpeg)
 
 5. チーム名の下にラベルで各チームの目標を確認できます。これは次のいずれかです：*Play to learn*または*Play to win*。
 
-![](images/_page_53_Figure_6.jpeg)
+![](images/jam-teams-display.jpeg)
 
 6. 誰が*Team Owner*であるかを確認できます。ユーザー名の横にあるレベルアイコン（数字付きの星）で、チームと個々のユーザーのスキルレベルを確認できます。
    > **📝 注記:** スキルレベル 0 は数字が表示されません。チームのスキルレベルは、すべてのチームメンバーの平均スキルレベルを採用して決定されます。
 
-![](images/_page_54_Figure_2.jpeg)
+![](images/jam-team-details-expanded.jpeg)
 
 7. **Actions**を選択し、次に以下のオプションのいずれかを選択して、個々のチームに対して以下のアクションを実行できます：
    - a. **Change team name**: 何らかの理由でチーム名を変更します。
@@ -38,41 +38,41 @@
    - c. **Change team password**: 何らかの理由でチームパスワードを変更します。
    - d. **Remove team password**: チームパスワードを削除して、パスワードを入力せずに誰でもチームに参加できるようにします。
 
-![](images/_page_54_Figure_8.jpeg)
+![](images/jam-team-join-p54.jpeg)
 
 8. チームパネルで**View progress**を選択して、チームの進捗を表示します。各チャレンジでのチームの進捗を確認できます。チャレンジについて、開始時間（_Start Time_）、完了したタスク数（_Completed_）、使用した再開回数（_Restart Used_）を確認できます。
 
-![](images/_page_55_Figure_1.jpeg)
+![](images/jam-challenge-start-p55.jpeg)
 
 9. 個々のチャレンジの各タスクについて、チームの進捗を確認できます。**Show Task**を選択して、すべてのタスクの進捗レポートを表示します。完了したかどうか（_Completed_）、使用したヒント数（_Used Clues_）、提出した回答（_Submitted Answers_）を確認できます。完了したら**Show Task**を選択して進捗レポートを閉じることができます。
 
-![](images/_page_55_Figure_3.jpeg)
+![](images/jam-task-p55.jpeg)
 
 10. 個々のユーザーに対してアクションを実行できます。**kebab（3 つのドットメニュー）**を選択し、次に以下のオプションのいずれかを選択します：
     - a. **Change team**: 参加者を別のチームに移動します。他のチームと比較してチームのスキルレベルのバランスを取るためにこれを行うことがあります。
     - b. **Remove from team**: 参加者をチームから削除します。不活発またはその他の理由で参加者を削除することがあります。
     - c. **Make team owner**: 参加者をチーム所有者にします。現在のチーム所有者が不活発で、他の誰かがチーム所有者になることを志願した場合にこれを行うことがあります。
 
-![](images/_page_56_Figure_5.jpeg)
+![](images/jam-team-join-p56.jpeg)
 
 ### 参加者を別のチームに移動する方法
 
 1. イベントリンクまたは秘密キーでイベントにアクセスします。
 2. イベントページで、左側に**Facilitator**メニューが表示されます。**Facilitator**メニューで、**Participants**を選択します。
 
-![](images/_page_56_Figure_9.jpeg)
+![](images/jam-team-join-p56.jpeg)
 
 3. *Teams*セクションに移動します。次に、移動したい参加者のチーム名の左側にある**expand**ボタンを選択します。
 
-![](images/_page_57_Picture_2.jpeg)
+![](images/jam-team-join-p57.jpeg)
 
 4. 移動したい参加者を特定します。ユーザー名パネルで**kebab（3 つのドットメニュー）**を選択し、次に**Change team**を選択します。
 
-![](images/_page_57_Picture_4.jpeg)
+![](images/jam-team-join-p57.jpeg)
 
 5. **Select a team**ドロップダウンを選択し、参加者が所属するチームとは異なる**チーム**を選択します。次に**Submit**を選択します。
 
-![](images/_page_57_Figure_6.jpeg)
+![](images/jam-team-join-p57.jpeg)
 
 6. 参加者は新しいチームに移動されます。
 
@@ -81,21 +81,21 @@
 1. イベントリンクまたは秘密キーでイベントにアクセスします。
 2. イベントページで、左側に**Facilitator**メニューが表示されます。**Facilitator**メニューで、**Participants**を選択します。
 
-![](images/_page_58_Figure_4.jpeg)
+![](images/jam-team-join-p58.jpeg)
 
 3. *Teams*セクションに移動し、移動したい参加者のチーム名の左側にある**expand**ボタンを選択します。
 
-![](images/_page_58_Figure_6.jpeg)
+![](images/jam-team-join-p58.jpeg)
 
 4. 移動したい参加者を見つけます。そのユーザー名パネルで**kebab（3 つのドットメニュー）**を選択し、次に**Remove from team**を選択します。
 
-![](images/_page_59_Picture_2.jpeg)
+![](images/jam-team-join-p59.jpeg)
 
 5. *Please enter removal reason panel*で、**ドロップダウン**から以下の理由のいずれかを選択します：
    - a. **Choose Removing for other reasons**
    - b. **Removing user due to reported inactivity**
 
-![](images/_page_59_Figure_6.jpeg)
+![](images/jam-participant-removal-dialog.jpeg)
 
 6. 完了したら**Submit**を選択します。
 7. 参加者はチームから削除されます。
@@ -107,7 +107,7 @@
 1. イベント管理ページで、**Facilitator**を選択し、次に**Settings**を選択します。
    > **📝 注記:** ファシリテーターで Facilitator メニューが表示されない場合は、イベント主催者に*ファシリテーター*権限を与えるよう依頼してください。その後、Jam からログアウトして再度ログインしてください。
 
-![](images/_page_60_Figure_1.jpeg)
+![](images/jam-facilitator-settings-panel.jpeg)
 
 2. 設定には以下のパネルが表示されます：
    - a. _Jam Status_: これは Jam のステータスとチャレンジが利用可能かどうかを示します。*warmup mode*では、ウォームアップチャレンジのみがアンロックされます。
@@ -115,7 +115,7 @@
    - c. _Support Chat_: これはサポートが有効かどうかを示します。
    - d. _Challenge Expiration_: これはチャレンジが期限切れになる日時を示します。スコアリングが確定されても、チャレンジは利用可能なままです。
 
-![](images/_page_60_Figure_7.jpeg)
+![](images/jam-facilitator-settings-panel.jpeg)
 
 ### チャレンジのアンロックの使用方法
 
@@ -124,27 +124,27 @@
 1. イベント管理ページで、**Facilitator**メニューを選択し、次に**Settings**を選択します。
    > **📝 注記:** ファシリテーターで**Facilitator**メニューが表示されない場合は、イベント主催者に*ファシリテーター*権限を与えるよう依頼してください。その後、Jam からログアウトして再度ログインしてください。
 
-![](images/_page_61_Figure_1.jpeg)
+![](images/jam-status-settings.jpeg)
 
 2. 設定ページで*Jam Status*パネルに移動します。**Make all challenges available**を選択します。
 
-![](images/_page_61_Figure_3.jpeg)
+![](images/jam-status-settings.jpeg)
 
 3. すべてのチャレンジが利用可能になりました。
 
-![](images/_page_61_Picture_5.jpeg)
+![](images/jam-status-settings.jpeg)
 
 ## チャレンジの有効期限を確認する方法
 
 1. イベント管理ページで、**Facilitator**を選択し、次に**Settings**を選択します。
    > **📝 注記:** ファシリテーターで**Facilitator**メニューが表示されない場合は、イベント主催者に*ファシリテーター*権限を与えるよう依頼してください。その後、Jam からログアウトして再度ログインしてください。
 
-![](images/_page_62_Figure_1.jpeg)
+![](images/jam-facilitator-menu.jpeg)
 
 2. 設定ページで*Challenge Expiration*パネルに移動します。チャレンジの有効期限の日時を確認できます。
    > **📝 注記:** スコアリングが確定されても、チャレンジは利用可能なままです。
 
-![](images/_page_62_Picture_3.jpeg)
+![](images/jam-messages-p62.jpeg)
 
 ## メッセージングタブの使用方法
 
@@ -153,40 +153,40 @@
 1. イベント管理ページで、**Facilitator**を選択し、次に**Messaging**を選択します。
    > **📝 注記:** ファシリテーターで**Facilitator**メニューが表示されない場合は、イベント主催者に*ファシリテーター*権限を与えるよう依頼してください。その後、Jam からログアウトして再度ログインしてください。
 
-![](images/_page_63_Picture_1.jpeg)
+![](images/jam-invitation-email-p63.jpeg)
 
 2. メッセージングページは、すべての受信者、チーム、または単一の参加者にメッセージやメールを送信できる場所です。
 
-![](images/_page_63_Figure_3.jpeg)
+![](images/jam-invitation-email-p63.jpeg)
 
 3. 異なるタイプの受信者にメッセージを送信できます。*Recipient*で**ドロップダウン**を選択し、以下のオプションのいずれかを選択します：
    - a. **All Event Participants**: デフォルトはすべてのイベント参加者にメッセージを送信することです。
    - b. **A Specific Team**: 特定のチームにメッセージを送信します。
    - c. **A Specific User**: 特定のユーザーにメッセージを送信します。
 
-![](images/_page_64_Figure_1.jpeg)
+![](images/jam-messages-p64.jpeg)
 
 4. 2 つのタイプのメッセージを送信できます。これは以下のいずれかです：
    - a. **Information**: このタイプは、部屋内のラボヘルパーの名前などの情報を送信するために使用されます。
    - b. **Warning**: このタイプは、イベントが終了しようとしているときに使用されます。
 
-![](images/_page_64_Figure_5.jpeg)
+![](images/jam-message-type-dropdown.jpeg)
 
 5. **Auto-Dismiss**はデフォルトで有効になっています。通知を送信するときに使用されます。通知は入力された**秒数**後に自動的にクリアされます。
 
-![](images/_page_64_Figure_7.jpeg)
+![](images/jam-messages-p64.jpeg)
 
 6. メッセージを作成した後、受信者にどのように表示されるかを確認するために**Preview**を選択します。
 
-![](images/_page_65_Figure_1.jpeg)
+![](images/jam-messages-p65.jpeg)
 
 7. 通知プレビューがページ上部のバナーに表示されます。
 
-![](images/_page_65_Picture_3.jpeg)
+![](images/jam-messages-p65.jpeg)
 
 8. メッセージと設定に満足したら**Send Message**を選択します。
 
-![](images/_page_65_Figure_5.jpeg)
+![](images/jam-chat-p65.jpeg)
 
 ### チャットの使用方法
 
@@ -194,19 +194,19 @@
 
 1. すべてのイベントページで、右下の**Team Chat**を選択します。
 
-![](images/_page_66_Picture_2.jpeg)
+![](images/jam-chat-p66.jpeg)
 
 2. メッセージを入力し、**Send**を選択します。
 
-![](images/_page_66_Figure_4.jpeg)
+![](images/jam-chat-p66.jpeg)
 
 3. **open in a new browser ( )**アイコンを選択して、チャットウィンドウを新しいブラウザタブで開きます。
 
-![](images/_page_66_Figure_6.jpeg)
+![](images/jam-chat-p66.jpeg)
 
 4. **minimize** ( \_ )アイコンを選択して、チャットウィンドウを非表示にし、チームとの会話を終了します。
 
-![](images/_page_67_Figure_1.jpeg)
+![](images/jam-team-join-p67.jpeg)
 
 ## 参加者とチャットする方法
 
@@ -216,22 +216,22 @@
 
 1. 参加者がチャットサポートを要求すると、サポートチームメンバーにはページの右下に**Support Chat**ウィンドウポップアップが表示されます。
 
-![](images/_page_68_Picture_4.jpeg)
+![](images/jam-team-join-p68.jpeg)
 
 サポートチームメンバーとファシリテーターチームのすべての他のメンバーは、ページの右下のサポートチャットボタンに、キューにあるサポートリクエストの数を示す数字が表示されます。
 
-![](images/_page_68_Picture_6.jpeg)
+![](images/jam-chat-p68.jpeg)
 
 2. **Support Chats**メニュー項目には、キューにあるサポートチャットの数が表示されます。**Facilitator**を選択し、次に**Support Chats (\***number**\*)**を選択してキューを開きます。
 
-![](images/_page_69_Picture_1.jpeg)
+![](images/jam-team-join-p69.jpeg)
 
 3. Support Chat Queue には、要求時間、ユーザー、チームなど、キューにあるチャットリクエストに関する情報が表示されます。**New – begin chat**を選択して参加者との会話を開始します。
 
-![](images/_page_69_Figure_3.jpeg)
+![](images/jam-team-join-p69.jpeg)
 
 4. **サポートチャット**ウィンドウがページの右下に表示されます。チャットウィンドウの上部とチャットウィンドウ内で、チャットしているユーザーを確認できます。*Type your message*フィールドにメッセージを入力し、**Send**を選択します。**Team Info**を選択して、新しいブラウザウィンドウでチームの詳細情報を表示します。**minimize**を選択して Support Chat ウィンドウを非表示にします。会話が終了したら、**End Chat**を選択します。
 
-![](images/_page_70_Picture_1.jpeg)
+![](images/jam-chat-p70.jpeg)
 
 ---

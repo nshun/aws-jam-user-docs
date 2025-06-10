@@ -33,11 +33,11 @@ As an AWS Jam event owner, you'll have to access the AWS Jam console. > **📝 N
 1. Open a web browser, and in the address bar enter the URL**: `https://jam.aws.com`.
 2. In the Jam home page, select **Sign In** on the top right of the page.
 
-![](images/_page_3_Picture_7.jpeg)
+![](images/jam-homepage-sign-in-button.jpeg)
 
 3. Choose a sign in method for your account and select **Sign in**.
 
-![](images/_page_4_Figure_1.jpeg)
+![](images/signin-method-selection.jpeg)
 
 4. Enter your **username** and **password**. After logging in you can see the Jam home page. Skip the next section if you are not logging in using Skill Builder Team Subscription or Skill Builder Individual Subscription.
 
@@ -48,11 +48,11 @@ If you have SBTS you can access Jam from the Skill Builder Admin Dashboard.
 1. Open a web browser and in the address bar enter the URL**: `https://skillbuilder.aws`
 2. Choose a sign in method for your SBTS enabled account and select **Sign in**.
 
-![](images/_page_5_Figure_1.jpeg)
+![](images/event-creation-six-steps-process.jpeg)
 
 3. In the Administrator Dashboard, find the *AWS Jam* panel. Then choose **GO TO JAM CONSOLE**.
 
-![](images/_page_5_Figure_3.jpeg)
+![](images/skillbuilder-dashboard-go-to-jam-console.jpeg)
 
 4. The page displays the Jam home page.
 
@@ -63,13 +63,13 @@ The Jam home page is where someone can participate in an AWS Jam AWS, create and
 1. The Jam home page has a navigation menu on the top.
 2. Below the navigation, you can join an event.
 
-![](images/_page_6_Picture_5.jpeg)
+![](images/jam-homepage-join-events.jpeg)
 
 3. The lower half of the homepage has an About AWS Jam section.
 4. There are also customer comments about Jam.
 5. The very bottom has navigation to Play, Host, get Support, and legal links.
 
-![](images/_page_6_Figure_9.jpeg)
+![](images/jam-homepage-bottom-section.jpeg)
 
 ## Navigation
 
@@ -77,17 +77,17 @@ The Jam home page is where someone can participate in an AWS Jam AWS, create and
 
 > **📝 Note:** The Host and Build menus are not displayed for someone that is just a participant of an event.
 
-![](images/_page_7_Picture_4.jpeg)
+![](images/jam-navigation-menu.jpeg)
 
 2. The top right of the navigation is where you can customize your user experience. You can choose **Light Mode** or **Dark Mode**, access your **Profile**, **Sign Out**, and set your preferred language with **Set Language**.
 
-![](images/_page_7_Picture_6.jpeg)
+![](images/jam-user-settings.jpeg)
 
 ## Play menu
 
 A participant will find most of what you need to do in the play menu. The play menu is where someone can join an AWS Jam event, access Jam events they are enrolled in, and browse current and upcoming event that are free for all to join.
 
-![](images/_page_8_Picture_1.jpeg)
+![](images/jam-play-menu.jpeg)
 
 The Play menu includes the following items:
 
@@ -99,7 +99,7 @@ The Play menu includes the following items:
 
 An event organizer will find most of what they need to do in the Host menu. The host menu is where an event organizer can browse curated experiences, schedule a Jam event, create a custom Jam event, manage their AWS Jam events, or create a campaign. The host menu does not display for participants.
 
-![](images/_page_8_Picture_8.jpeg)
+![](images/jam-host-menu.jpeg)
 
 The Host menu includes the following items:
 
@@ -110,7 +110,7 @@ The Host menu includes the following items:
 
 A challenge builder will find most of what they need to do in the build menu. The build menu is where a challenge builder can build a Jam challenge, build a Jam challenge set, and view all challenges in the library. The build menu does not display for users that do not have challenge builder privileges. You must request challenge builder privileges if you want to build a challenge.
 
-![](images/_page_9_Picture_3.jpeg)
+![](images/jam-build-menu.jpeg)
 
 The Build menu includes the following items:
 
@@ -122,4 +122,4 @@ The Build menu includes the following items:
 
 The FAQ shows a list of general questions and answers about AWS Jam.
 
-![](images/_page_10_Picture_3.jpeg)
+![](images/jam-faq-page.jpeg)

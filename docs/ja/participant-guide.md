@@ -11,11 +11,11 @@
 1. "*AWS Jam – Invitation*" というタイトルのメールがないか、メールの受信箱を確認してください。イベントの詳細が含まれています。メールを開き、**View event details** を選択します。
 > **📝 注記:** 重要な注意事項について、メールを注意深くお読みください。
 
-![](images/_page_71_Picture_5.jpeg)
+![](images/jam-invitation-email.jpeg)
 
 2. 使用したいアカウントに応じてサインイン方法を選択します。**Create or Sign in** または **Sign In** を選択します。
 
-![](images/_page_72_Figure_2.jpeg)
+![](images/jam-signin-methods.jpeg)
 
 3. イベントに参加し、チームに参加するよう求められます。以下のオプションのいずれかを選択します：
 	- a. **Match Me to a Team**: スキルレベルと目標に基づいてチームにマッチングされます。
@@ -23,7 +23,7 @@
 	- b. **Create a Team**: 特定の人とチームを組むことができます。
 	- c. **Join a Specific Team**: 既に作成されたチーム、または招待されたチームに参加できます。
 
-![](images/_page_73_Figure_5.jpeg)
+![](images/jam-team-join-options.jpeg)
 
 ## 秘密キーでイベントに参加する方法
 
@@ -31,11 +31,11 @@
 
 1. Jamホームページのナビゲーションで、**Play** に移動し、**Join a Jam Event** を選択します。
 
-![](images/_page_73_Picture_9.jpeg)
+![](images/jam-play-join-event.jpeg)
 
 2. **Secret Key** に秘密キーを入力し、**Join Event** を選択します。
 
-![](images/_page_73_Picture_11.jpeg)
+![](images/jam-secret-key-entry.jpeg)
 
 3. イベントに参加し、チームに参加するよう求められます。以下のオプションのいずれかを選択します：
 	- a. **Match Me to a Team**: スキルレベルと目標に基づいてチームにマッチングされます。
@@ -43,7 +43,7 @@
 	- b. **Create a Team**: 特定の人とチームを組むことができます。
 	- c. **Join a Specific Team**: 既に作成されたチーム、または招待されたチームに参加できます。
 
-![](images/_page_74_Figure_5.jpeg)
+![](images/jam-team-join-options-2.jpeg)
 
 ## チャレンジを開く方法
 
@@ -51,25 +51,25 @@
 
 1. *Challenges* ページで**チャレンジ名**タイルを選択します。
 
-![](images/_page_74_Picture_9.jpeg)
+![](images/jam-challenges-page.jpeg)
 
 2. チャレンジ説明パネルが右側に表示されます。**Open challenge** を選択します。
 
-![](images/_page_75_Picture_2.jpeg)
+![](images/jam-challenge-open-panel.jpeg)
 
 3. チャレンジページには、各チャレンジの*チャレンジ名*、*概要*、および*チャレンジ進捗*が表示されます。
 
-![](images/_page_75_Picture_4.jpeg)
+![](images/jam-challenge-overview.jpeg)
 
 2番目の方法は**Challenges**メニューで行います。
 
 1. チャレンジページで、ページ左側の**Challenges**を選択します。次に、開く**チャレンジ名**を選択します。
 
-![](images/_page_76_Picture_3.jpeg)
+![](images/jam-challenges-menu.jpeg)
 
 2. チャレンジページには、*概要*と、すべての**タスク**を含む*チャレンジ進捗*セクションが表示されます。
 
-![](images/_page_76_Picture_5.jpeg)
+![](images/jam-challenge-progress.jpeg)
 
 ## チャレンジを開始する方法
 
@@ -77,19 +77,19 @@
 
 1. *Challenges*ページで**チャレンジ名**タイルを選択します。
 
-![](images/_page_77_Picture_1.jpeg)
+![](images/jam-challenge-tile-selection.jpeg)
 
 2. チャレンジ説明パネルがページの右側に表示されます。**Open challenge**を選択します。
 
-![](images/_page_77_Figure_3.jpeg)
+![](images/jam-challenge-open-button.jpeg)
 
 3. チャレンジページで、**Start Challenge**を選択します。
 
-![](images/_page_78_Picture_2.jpeg)
+![](images/jam-challenge-start-button.jpeg)
 
 4. **AWS Console**または**AWS CLI**を使用してチャレンジに取り組み始めることができます。
 
-![](images/_page_78_Picture_4.jpeg)
+![](images/jam-aws-console-cli-options.jpeg)
 
 ## タスクを解決する方法
 
@@ -97,20 +97,20 @@
 
 1. チャレンジページで、**Start Challenge**を選択します。
 
-![](images/_page_79_Picture_1.jpeg)
+![](images/jam-start-challenge-button.jpeg)
 
 *Challenge Progress*セクションで**Task 1**を選択します。
 > **📝 注記:** タスクは通常、昇順で解決されます。
 
-![](images/_page_79_Figure_3.jpeg)
+![](images/jam-task-selection.jpeg)
 
 メニューを使用して**Challenges**、次に**Task 1**を選択することもできます。
 
-![](images/_page_79_Picture_5.jpeg)
+![](images/jam-task-menu-selection.jpeg)
 
 2. タスクページには、名前、獲得可能ポイント、ヒントペナルティ、利用可能ポイントが表示されます。タスクを解決することでポイントを獲得できます。**Open AWS Console**または**AWS\_CLI**を選択します。
 
-![](images/_page_80_Picture_2.jpeg)
+![](images/jam-task-details-page.jpeg)
 
 ### ヒントの使用方法
 
@@ -118,11 +118,11 @@
 
 1. タスクページで、**Task and Clues**を選択します。
 
-![](images/_page_80_Picture_6.jpeg)
+![](images/jam-task-and-clues-button.jpeg)
 
 2. Task and Cluesページには、タスクを完了する方法の具体的な手順が表示されます。
 
-![](images/_page_81_Picture_2.jpeg)
+![](images/jam-task-and-clues-page.jpeg)
 
 ## リーダーボードを表示する方法
 
@@ -130,15 +130,15 @@
 
 1. 左側の*challenges*ナビゲーションで、**Leaderboard**を選択します。
 
-![](images/_page_81_Picture_6.jpeg)
+![](images/jam-leaderboard-menu.jpeg)
 
 2. リーダーボードには、チャレンジの残り時間、チームランキング、チーム統計が表示されます。**チーム名**を選択してチームメンバーを確認します。
 
-![](images/_page_82_Figure_2.jpeg)
+![](images/jam-leaderboard-display.jpeg)
 
 3. チーム情報が右側に表示されます。完了したら**Close**を選択します。
 
-![](images/_page_82_Figure_4.jpeg)
+![](images/jam-team-info-panel.jpeg)
 
 ### チームとのチャット方法
 
@@ -146,19 +146,19 @@
 
 1. *challenge*ページで、ページの右下にある**Team Chat**を選択します。
 
-![](images/_page_83_Figure_1.jpeg)
+![](images/jam-team-chat-button.jpeg)
 
 2. メッセージを入力し、**Send**を選択します。
 
-![](images/_page_83_Figure_3.jpeg)
+![](images/jam-chat-send-message.jpeg)
 
 3. **open in a new browser ( )**アイコンを選択して、チャットウィンドウを新しいブラウザタブで開きます。
 
-![](images/_page_84_Figure_2.jpeg)
+![](images/jam-chat-new-browser-tab.jpeg)
 
 4. **minimize** ( \_ )アイコンを選択して、チャットウィンドウを非表示にし、チームとの会話を終了します。
 
-![](images/_page_84_Figure_4.jpeg)
+![](images/jam-chat-minimize.jpeg)
 
 ### サポートチャットを要求する方法
 
@@ -166,15 +166,15 @@
 
 1. ページの右下にある**Support Chat**を選択します。
 
-![](images/_page_84_Picture_8.jpeg)
+![](images/jam-support-chat-button.jpeg)
 
 2. **support chat**ウィンドウがページの右下に表示されます。*Type your message*フィールドにメッセージを入力し、**Send**を選択します。
 
-![](images/_page_85_Picture_1.jpeg)
+![](images/jam-support-chat-window.jpeg)
 
 3. サポートチームメンバーがリクエストに応答し、サポートチャットウィンドウで応答を読むことができます。必要に応じて**Type your message**と**send**を何回でも行ってください。**minimize**を選択して*Support Chat*ウィンドウを非表示にします。会話が終了したら、**End Chat**を選択します。
 
-![](images/_page_86_Picture_1.jpeg)
+![](images/jam-support-chat-response.jpeg)
 
 ### フィードバックの使用方法
 
@@ -182,15 +182,15 @@
 
 1. **Challenges**ナビゲーションメニューを選択し、次に**Feedback**を選択します。
 
-![](images/_page_86_Picture_5.jpeg)
+![](images/jam-feedback-menu.jpeg)
 
 2. イベントフィードバックを送信するには、**星**の数、または**yes**または**no**を選択します。**please add any additional feedback**フィールドに追加のフィードバックを入力します。完了したら、**Submit Feedback**を選択します。
 
-![](images/_page_87_Picture_1.jpeg)
+![](images/jam-event-feedback-form.jpeg)
 
 3. チャレンジフィードバックを入力するには、**星**の数、**数字**、または**yes**または**no**を選択します。**please add any additional feedback**フィールドに追加のフィードバックを入力します。完了したら、**Submit Feedback**を選択します。
 
-![](images/_page_87_Picture_3.jpeg)
+![](images/jam-challenge-feedback-form.jpeg)
 
 ### メッセージの使用方法
 
@@ -198,9 +198,9 @@
 
 1. *messages*ページには、受信したすべてのメッセージが表示されます。**Challenges**メニューを選択し、次に**Messages (number)**を選択します。
 
-![](images/_page_88_Picture_1.jpeg)
+![](images/jam-messages-menu.jpeg)
 
 2. *メッセージタイトル*の横にある**expand**（**逆三角形**）を選択して、メッセージ本文を表示します。
 > **📝 注記:** 2種類のメッセージを受信できます：情報メッセージと警告メッセージ。警告タイプのメッセージには*警告インジケーター*があります。
 
-![](images/_page_88_Picture_3.jpeg)
+![](images/jam-message-expand.jpeg)
